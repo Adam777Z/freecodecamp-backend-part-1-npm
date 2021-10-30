@@ -1,6 +1,8 @@
 {
+  "name": "fcc-learn-npm-package-json",
+  "description": "A project that does something awesome",
+  "version": "1.0.0",
   "author": "Adam",
-  "description": "A project that does something awesome.",
   "keywords": [
     "descriptive",
     "related",
@@ -8,8 +10,6 @@
     "freecodecamp"
   ],
   "license": "MIT",
-  "name": "fcc-learn-npm-package-json",
-  "version": "1.0.0",
   "dependencies": {
     "express": "^4.17.1"
   },
