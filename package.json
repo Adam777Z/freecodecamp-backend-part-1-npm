@@ -9,6 +9,10 @@
     "words",
     "freecodecamp"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Adam777Z/freecodecamp-backend-part-1-npm.git"
+  },
   "license": "MIT",
   "dependencies": {
     "express": "^4.17.1"
@@ -19,9 +23,5 @@
   },
   "engines": {
     "node": "10.14.1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/Adam777Z/freecodecamp-backend-part-1-npm.git"
   }
 }
